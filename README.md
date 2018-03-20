@@ -1,7 +1,7 @@
-FullScreenMario
+TestingGame
 ===============
 
-An HTML5 remake of the original Super Mario Brothers - expanded for modern browsing.
+An HTML5 remake of the Brothers - expanded for modern browsing.
 ------------------------------------------------------------------------------------
 
 Here's a quick set of cheat codes you can use during the game. If you're using this through the <a href="http://www.fullscreenmario.com">fullscreenmario.com</a> UI, you'll have to reference everything as a member of 'game' (which is a link to the frame containing FSM).
